@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin:0px
+
+
+}
+.container{
+    margin-top: 100px;
+    background-color: #ffffff;
+    width: 50px;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 15px
+
+}
+.search{
+    display:grid;
+    grid-template-columns: 9fr 3fr;
+    gap:1.25em
+    
+}
